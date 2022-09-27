@@ -1,0 +1,11 @@
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\bin\Debug\netcoreapp2.2\PrjTecnicoJogador.deps.json
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\bin\Debug\netcoreapp2.2\PrjTecnicoJogador.runtimeconfig.json
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\bin\Debug\netcoreapp2.2\PrjTecnicoJogador.runtimeconfig.dev.json
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\bin\Debug\netcoreapp2.2\PrjTecnicoJogador.dll
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\bin\Debug\netcoreapp2.2\PrjTecnicoJogador.pdb
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.csprojAssemblyReference.cache
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.csproj.CoreCompileInputs.cache
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.AssemblyInfoInputs.cache
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.AssemblyInfo.cs
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.dll
+C:\Users\20210988\Desktop\TecnicoJogador\TecnicoJogador\obj\Debug\netcoreapp2.2\PrjTecnicoJogador.pdb
